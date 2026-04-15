@@ -30,7 +30,13 @@ I am a Computer Science and Engineering student deeply passionate about Machine 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
+</p>
+
+#### 🔌 Hardware, IoT & Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/cisco%20packet%20tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 #### 🌐 Web & App Development
@@ -43,7 +49,7 @@ I am a Computer Science and Engineering student deeply passionate about Machine 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Infrastructure
+#### 🗄️ Databases, Infrastructure & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -51,6 +57,7 @@ I am a Computer Science and Engineering student deeply passionate about Machine 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 ---
