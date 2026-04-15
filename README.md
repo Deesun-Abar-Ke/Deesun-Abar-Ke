@@ -1,6 +1,6 @@
 # Hi there, I'm G. M. Fahim Tazwar 👋
 
-**AI/ML Enthusiast | Computer Science Undergrad @ MIST | Competitive Programmer**
+**AI/ML Enthusiast | Computer Science Undergrad @ MIST **
 
 I am a Computer Science and Engineering student deeply passionate about Machine Learning, Deep Learning and building intelligent systems. My current focus revolves around exploring Large Language Models (LLMs), hyperparameter optimization and applying AI to solve real-world problems like public health monitoring and behavior analysis. 
 
